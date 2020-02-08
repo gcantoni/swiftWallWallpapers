@@ -1,6 +1,6 @@
 <h1 align="center">Swift Wall Wallpapers</h1>
 <h4 align="center">Collections of unique wallapers</h4>
-<h3 align="center"><img src="https://raw.githubusercontent.com/gcantoni/swiftWallWallpapers/master/icon.png" height="48" width="48"/></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/gcantoni/swiftWallWallpapers/master/icon.png" height="150" width="150"/></h3>
 <i><p align="center">
   Author: <a target="_blank" href="https://github.com/gcantoni">Giorgio Cantoni</a><br>
   Co-author: <a target="_blank" href="https://github.com/domSwift">Domenico Gialbalvo</a><br>
