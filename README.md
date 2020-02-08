@@ -8,6 +8,9 @@
 </p></i>
 
 ## Download
- [<img src="https://raw.githubusercontent.com/gcantoni/MenuDialogs/master/images/google-play-badge.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
+[<img src="https://raw.githubusercontent.com/gcantoni/MenuDialogs/master/images/google-play-badge.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
+ 
+ ## Credits and license
+All the wallpapers uploaded here were taken from the popular website unsplash.com. A special thanks to the authors of the wallpapers and to unsplash for being able to use them freely.
 
 
