@@ -1,5 +1,5 @@
 <h1 align="center">Swift Wall Wallpapers</h1>
-<h4 align="center">Collections of unique wallapers</h4>
+<h4 align="center">Collections of unique wallpapers</h4>
 <h3 align="center"><img src="https://raw.githubusercontent.com/gcantoni/swiftWallWallpapers/master/icon.png" height="150" width="150"/></h3>
 <i><p align="center">
   Author: <a target="_blank" href="https://github.com/gcantoni">Giorgio Cantoni</a><br>
