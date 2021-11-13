@@ -1,4 +1,4 @@
-<h1 align="center">Swift Walls Wallpapers</h1>
+<h1 align="center">[Deprecated] Swift Walls Wallpapers</h1>
 <h4 align="center">Collections of unique wallpapers</h4>
 <h3 align="center"><img src="https://raw.githubusercontent.com/gcantoni/swiftWallWallpapers/master/icon.png" height="150" width="150"/></h3>
 <i><p align="center">
